@@ -116,3 +116,5 @@ export const PRODUCTS_DATA: Product[] = [
     color: "Glaze Black",
   },
 ];
+
+
